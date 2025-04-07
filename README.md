@@ -58,7 +58,7 @@ const akshar = {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/akshar-1801/akshar-1801/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Focus
@@ -87,7 +87,6 @@ const akshar = {
   <a href="https://your-portfolio-website.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://raw.githubusercontent.com/akshar-1801/akshar-1801/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 <div align="center">
