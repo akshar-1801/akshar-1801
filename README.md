@@ -57,9 +57,6 @@ const akshar = {
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akshar-1801/akshar-1801/snake/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Focus
 
@@ -89,6 +86,9 @@ const akshar = {
   </a>
 </div>
 
+  ![snake gif](https://github.com/akshar-1801/akshar-1801/blob/output/github-snake-dark.svg)
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/akshar-1801/count.svg" alt="Visitor Count" />
 </div>
@@ -96,3 +96,4 @@ const akshar = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
+
