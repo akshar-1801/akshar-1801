@@ -87,6 +87,7 @@ const akshar = {
   <a href="https://your-portfolio-website.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
+  <img src="https://raw.githubusercontent.com/akshar-1801/akshar-1801/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 <div align="center">
