@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Akshar;Full-Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Hi+there%2C+I'm+Akshar+Vadher;Full-Stack+Developer;Code+Enthusiast;Graphics+Designer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Full-Stack Developer
-</h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -25,16 +21,16 @@
 
 ```typescript
 const akshar = {
-  location: "Coding from somewhere on Earth 🌍",
+  location: "Coding from the top of the stack...",
   role: "Full-Stack Developer",
   skills: {
-    languages: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C++", "C#"],
     frontend: ["React", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express", "MongoDB"],
-    tools: ["Git", "Docker", "VS Code", "Figma"],
+    tools: ["Git", "VS Code", "Visual Studio", "Figma"],
   },
-  currentFocus: "Creating elegant and scalable web applications",
-  funFact: "I transform caffeine into code ☕→💻",
+  currentFocus: "Leveling up my dev skills while crafting elegant web apps.",
+  funFact: "90% of my commits happen after midnight 🌙.",
   motto: "Code once, think twice",
 };
 ```
@@ -57,13 +53,12 @@ const akshar = {
 
 </div>
 
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Current Focus
 
-- 🔭 Building innovative full-stack applications
-- 🌱 Exploring advanced patterns in React and Node.js
-- 💡 Contributing to open-source projects
-- 📚 Learning about system design and cloud architecture
+- 🔧 Building lightweight full-stack apps that don’t mess around
+- 🔒 Leveling up my skills to make apps secure as a vault
+- 🤖 Diving into ML like a mad scientist with code
+- 🎯 Learning to craft apps that are fast, safe, and downright dope
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -72,13 +67,10 @@ const akshar = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/akshar-v-237158260">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aksharvadher001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-portfolio-website.com">
@@ -86,8 +78,13 @@ const akshar = {
   </a>
 </div>
 
-  ![snake gif](https://github.com/akshar-1801/akshar-1801/blob/output/github-snake-dark.svg)
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akshar-1801/akshar-1801/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/akshar-1801/akshar-1801/blob/output/github-snake.svg" />
+    <img src="https://github.com/akshar-1801/akshar-1801/blob/output/github-snake.svg" alt="Snake animation" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/akshar-1801/count.svg" alt="Visitor Count" />
@@ -96,4 +93,3 @@ const akshar = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
-
